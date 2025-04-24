@@ -34,7 +34,7 @@ An exploratory data analysis project focused on **Two Centuries of Ultra Maratho
    pip install pandas matplotlib seaborn
 3. Open the notebook:
    ```bash
-   jupyter notebook ultra_marathon_eda_final.ipynb
+   jupyter notebook ultra_marathon_analysis.ipynb
 
 ## 📌 Conclusion
 This analysis gives insight into ultra marathon evolution, helping athletes and organizers understand trends in demographics, endurance, and participation.
