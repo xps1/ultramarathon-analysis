@@ -24,7 +24,7 @@ An exploratory data analysis project focused on **Two Centuries of Ultra Maratho
 
 ## 📷 Sample Visualization
 
-![Sample Plot]![image](https://github.com/user-attachments/assets/b830573d-47e0-4815-b42b-93ec2505f415)
+![image](https://github.com/user-attachments/assets/0ce1f404-9e80-4a82-a1c2-e50d7f0099f3)
 
 ## 🚀 How to Run
 1. Clone the repository
