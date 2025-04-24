@@ -22,6 +22,11 @@ An exploratory data analysis project focused on **Two Centuries of Ultra Maratho
 - Matplotlib
 - Jupyter Notebook
 
+## 📷 Sample Visualization
+
+![Sample Plot](images/sample_plot.png)
+
+
 ## 🚀 How to Run
 1. Clone the repository
 2. Install required libraries:
