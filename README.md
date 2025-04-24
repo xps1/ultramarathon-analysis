@@ -4,7 +4,7 @@ An exploratory data analysis project focused on **Two Centuries of Ultra Maratho
 
 ## 📁 Dataset
 - **Source**: [TWO_CENTURIES_OF_UM_RACES.csv]
-- Link to Kaggle for dataset: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
+- Link to Kaggle for dataset: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data
 - Includes data on:
   - Race distances
   - Gender & age distribution
